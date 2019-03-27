@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".userdetail"></activity>
+        <activity android:name=".testupload"></activity>
+        <activity android:name=".userdetail" />
         <activity android:name=".usersingup" />
         <activity android:name=".userlogin" />
         <activity android:name=".listdata" />
