@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356001853769",
+    "firebase_url": "https://fcfas-2928f.firebaseio.com",
+    "project_id": "fcfas-2928f",
+    "storage_bucket": "fcfas-2928f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356001853769:android:4f7b85494ffb4942",
+        "android_client_info": {
+          "package_name": "com.fcfas.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356001853769-8cqo4fedn3qldupl722f9ob2lm38fn3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VM1bLSrd9zOYfwy6AojuFoQ1y0TOBac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
